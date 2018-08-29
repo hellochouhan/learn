@@ -21,6 +21,6 @@ public class Counter {
             }).start();  
         }  
         //这里每次运行的值都有可能不同,可能不为1000  
-        System.out.println("运行结:Counter.count=" + Counter.count);  
+        System.out.println("运行结果:Counter.count=" + Counter.count);  
     }  
 } 
